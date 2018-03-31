@@ -1,0 +1,17 @@
+body {
+	background: white;
+	font-family: oswald;
+	text-align: center;
+	margin-top: 100px;
+	}
+
+h5 {
+	border: 1px solid pink;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	width: 170px;
+	margin: auto;
+	background: #5cd7ff;
+	}
+
+h5:hover {background: #ff63de;}
