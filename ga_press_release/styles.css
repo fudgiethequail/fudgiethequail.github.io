@@ -1,0 +1,48 @@
+body {
+	background: lightgrey;
+	font-family: oswald;
+	text-align: center;
+	margin-top: 20px;
+	}
+
+
+.text-center{text-align: center;}
+
+
+#ga-text{color: red;}
+
+#logo img {
+	width: 120px;
+	height: 120px;
+}
+
+h2{
+	border: 1px solid black;
+	background: white;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin:50px;
+	width: 350px;
+	margin: auto;}
+
+p{
+	padding-top: 12px;
+	padding-bottom: 6px;
+	margin:50px;
+	width: 350px;
+	text-align:; left;
+	margin: auto;
+}
+
+ul{
+	padding-top: 12px;
+	padding-bottom: 6px;
+	margin:50px;
+	width: 90px;
+	text-align:left;
+	margin: auto;
+}
+
+#logo{text-align: center}
+#important-cta {color: red;}
+
